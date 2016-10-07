@@ -1,9 +1,3 @@
 aaaaa
 ccccc
-bbbbb
-eeeee
-ggggg
-fffff
-hhhhh
-iiiii
-jjjjj 
+eeee
